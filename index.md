@@ -1,8 +1,8 @@
 ---
 layout: homepage.liquid
-title: Horsin' Around
+title: 127.0.0.1
 ---
 
-## Welcome to Hollywoo
+## 127.0.0.1
 
-Hello. I am BoJack. Horseman, obviously
+But you can call me localhost
